@@ -1,5 +1,9 @@
 # Automated File Organizer
 
+## Internship Details
+
+**Internship ID:** CITS7083
+
 ## Description
 This Python project automatically organizes files into folders based on their file type.
 
